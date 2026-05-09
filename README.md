@@ -5,8 +5,9 @@ Minecraft 1.16.1 cheat for MCSR Ranked Mod
 - [Website](https://zerafmc.com/) • [Discord](https://discord.gg/YyvsWastQd)
 
 ---
-Optimized for Minecraft 1.16.1 MCSR Ranked Mode with smooth performance, powerful features, and a polished interface
-Actively updated based on user feedback, with fast support through Discord
+- Optimized for Minecraft 1.16.1 MCSR Ranked Mode with smooth performance, powerful features, and a polished interface
+- Actively updated based on user feedback, with fast support through Discord
+- **Work Stream Proof! !**
 
 ## Includes
 
