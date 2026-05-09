@@ -2,7 +2,7 @@
 
 Minecraft 1.16.1 cheat for MCSR Ranked Mod
 - [Credit]
-- [Website](https://zerafmc.com/) • [Discord](https://discord.gg/YyvsWastQd) • [Changelog](CHANGELOG.md)
+- [Website](https://zerafmc.com/) • [Discord](https://discord.gg/YyvsWastQd)
 
 ---
 Optimized for Minecraft 1.16.1 MCSR Ranked Mode with smooth performance, powerful features, and a polished interface
