@@ -52,3 +52,15 @@ Actively updated based on user feedback, with fast support through Discord
 ## Changelog
 
 [View Changelog](CHANGELOG.md)
+
+
+## Preview
+
+![Preview](assets/ZerafUI.png)
+
+![Preview](assets/ui.png)
+
+![Preview](assets/zearfesp.png)
+
+![Preview](assets/zerafcustom.png)
+
