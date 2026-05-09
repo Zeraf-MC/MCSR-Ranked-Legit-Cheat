@@ -60,7 +60,7 @@ Actively updated based on user feedback, with fast support through Discord
 
 ![Preview](assets/ui.png)
 
-![Preview](assets/zearfesp.png)
+![Preview](assets/zerafesp.png)
 
 ![Preview](assets/zerafcustom.png)
 
