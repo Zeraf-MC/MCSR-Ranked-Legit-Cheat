@@ -1,8 +1,8 @@
 # Zeraf MC - MCSR Ranked Cheat
 
 Minecraft 1.16.1 cheat for MCSR Ranked Mod
-
-[Official Website](https://zerafmc.com/) • [Discord](https://discord.gg/YyvsWastQd) • [Changelog](CHANGELOG.md)
+[Credit]
+[Website](https://zerafmc.com/) • [Discord](https://discord.gg/YyvsWastQd) • [Changelog](CHANGELOG.md)
 
 ---
 Optimized for Minecraft 1.16.1 MCSR Ranked Mode with smooth performance, powerful features, and a polished interface
